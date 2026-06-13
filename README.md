@@ -198,7 +198,7 @@ Blizzard Dash plunges you into heart-pounding snow-surfing chaos: carve endless 
   <td width="50%">
 
 ### 🤖 TechBot BD
-TechBot BD is an open-source, Bengali-language conversational AI assistant that helps Bangladeshi consumers discover the right laptop or smartphone from real retailer inventory. Built on a hybrid **Retrieval-Augmented Generation (RAG)** architecture, it combines exact pandas-based constraint filtering with FAISS semantic search—achieving **89% Precision@5** while handling Bengali, Banglish, and English code-switched queries. Deployed as a Streamlit web app, it targets Bangladesh's $7.5B e-commerce market and 170M+ Bengali-speaking users underserved by keyword-based search systems.
+TechBot BD is an open-source, Bengali-language conversational AI assistant that helps Bangladeshi consumers discover the right tech products from real retailer inventory. Built on a hybrid **Retrieval-Augmented Generation (RAG)** architecture, it combines exact pandas-based constraint filtering with FAISS semantic search.
 
 **Stack:** Python · RAG · FAISS · Pandas · Streamlit
 
