@@ -113,7 +113,7 @@ class Profile {
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=mah1uz&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180em" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mah1uz&theme=tokyonight&hide_border=true" height="180em" />
+<img src="https://streak-stats.demolab.com/?user=mah1uz&theme=tokyonight&hide_border=true" height="180em" />
 
 <br/>
 
