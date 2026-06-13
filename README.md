@@ -35,7 +35,7 @@ class Profile {
                                "Artificial Intelligence",
                                  "RAG systems",
                                    "System Design"
-                                     };
+                              };
     String philosophy       = "Problem → Literature Review → Solution → Iterate";
     String funFact          = "Research Papers are like newspapers for researchers 📄";
 }
