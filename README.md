@@ -8,7 +8,7 @@
 
 # Hi stranger, I am Mahfuz 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=DEDBC8&center=true&vCenter=true&width=620&lines=CSE+STUDENT+%C2%B7+BUILDER+%C2%B7+RESEARCHER;Full-stack+%C3%97+AI+Systems;Early+riser%2C+morning+starts+at+12am+%F0%9F%98%84)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=DEDBC8&center=true&vCenter=true&width=620&lines=CSE+STUDENT+%C2%B7+BUILDER+%C2%B7+RESEARCHER;Full-stack+%C3%97+AI+Systems;Morning+starts+at+12am+%F0%9F%98%84)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 ```java
 class Profile {
-    String[] name = {"Mahfuz", "Ahmed"};
+    String[] name           = {"Mahfuz", "Ahmed"};
     String location         = "Dhaka, Bangladesh";
     String university       = "American International University - Bangladesh, BSc CSE";
     String[] focus          = {"Full-stack", "AI/ML", "APIs", "Research"};
@@ -35,7 +35,7 @@ class Profile {
                                "Artificial Intelligence",
                                  "RAG systems",
                                    "System Design"
-    };
+                                     };
     String philosophy       = "Problem → Literature Review → Solution → Iterate";
     String funFact          = "Research Papers are like newspapers for researchers 📄";
 }
