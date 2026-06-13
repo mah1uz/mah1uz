@@ -175,33 +175,34 @@ A Java-based hospital management platform for handling patients, doctors, appoin
   <td width="50%">
 
 ### ☕ Cafe Management System
-Full project documentation of a Cafe Management System — architecture, design and flow.
+A desktop-based management system built using **C# and .NET Framework** as part of the Object Oriented Programming 2 course. It handles core café operations like orders, billing, and basic inventory workflow using OOP principles.
 
-**Stack:** Documentation
+**Stack:** C# · .NET Framework
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mah1uz/Project-Documentation-of-The-Cafe-Management-System)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mah1uz/A_Cafe_Management_System_OOP2)
 
   </td>
   </tr>
+
   <tr>
     <td width="50%">
 
-### 🐍 Python Basics Library
-A structured collection of Python basics — written and documented during active learning.
+### 🏂 Blizzard Dash
+Blizzard Dash plunges you into heart-pounding snow-surfing chaos: carve endless icy slopes as a daring rider, dodging razor-sharp rocks and towering pines in a blizzard-fueled frenzy. Master razor-edge turns and gravity-defying jumps in stunning **C++ OpenGL visuals**—every run tests your reflexes against nature's wrath! 🚀
 
-**Stack:** Python
+**Stack:** C++ · OpenGL
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mah1uz/basicsToPython)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mah1uz/Blizzard_Dash)
 
   </td>
   <td width="50%">
 
-### ⚙️ C++ Practice Library
-A complete library of C++ files created during semester 2 — from fundamentals to problem solving.
+### 🤖 TechBot BD
+TechBot BD is an open-source, Bengali-language conversational AI assistant that helps Bangladeshi consumers discover the right laptop or smartphone from real retailer inventory. Built on a hybrid **Retrieval-Augmented Generation (RAG)** architecture, it combines exact pandas-based constraint filtering with FAISS semantic search—achieving **89% Precision@5** while handling Bengali, Banglish, and English code-switched queries. Deployed as a Streamlit web app, it targets Bangladesh's $7.5B e-commerce market and 170M+ Bengali-speaking users underserved by keyword-based search systems.
 
-**Stack:** C++
+**Stack:** Python · RAG · FAISS · Pandas · Streamlit
 
-[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mah1uz/Practice-Library-CPlusPlus)
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mah1uz/TechBotBD)
 
   </td>
   </tr>
