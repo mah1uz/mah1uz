@@ -247,6 +247,7 @@ An AI-powered substitute teacher scheduling platform built at a hackathon. Autom
 
 If you're working on **AI products**, **Research Papers**, **full-stack systems**, or **building things that matter**, my DMs are open.
 
+## 🎵 Listen with me 🎵 🙂‍↔️🙂‍↕️
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=q9rxhx7qmi0mnoudqwobh3zlu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=q9rxhx7qmi0mnoudqwobh3zlu&redirect=true)
 
