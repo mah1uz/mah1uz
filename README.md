@@ -111,7 +111,11 @@ class Profile {
 ![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 
-### 🎨 Design & Creative
+
+### 🛠️ Tools & Design
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=for-the-badge&logo=adobelightroom&logoColor=white)
@@ -225,7 +229,7 @@ TechBot BD is an open-source, Bengali-language conversational AI assistant that 
 ### 🗓️ SubSync
 An AI-powered substitute teacher scheduling platform built at a hackathon. Automates the chaos of last-minute teacher replacements with intelligent scheduling and real-time availability tracking.
 
-**Stack:** Python · AI Scheduling · Full-stack
+**Stack:** Python · Vibe Coding · Full-stack
 
 ![Status](https://img.shields.io/badge/Status-Hackathon_Build-9B59B6?style=for-the-badge)
 
@@ -242,6 +246,9 @@ An AI-powered substitute teacher scheduling platform built at a hackathon. Autom
 ### 💬 Let's connect
 
 If you're working on **AI products**, **Research Papers**, **full-stack systems**, or **building things that matter**, my DMs are open.
+
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=q9rxhx7qmi0mnoudqwobh3zlu&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=q9rxhx7qmi0mnoudqwobh3zlu&redirect=true)
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahfuzahmed296/)
 
